@@ -1,0 +1,6 @@
+numpy>=1.24.0
+sounddevice>=0.4.6
+llama-cpp-python>=0.2.85
+birdnetlib>=0.17.0
+pyttsx3>=2.90
+colorama>=0.4.6
